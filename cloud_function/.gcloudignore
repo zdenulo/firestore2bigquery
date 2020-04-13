@@ -1,0 +1,3 @@
+
+deploy_cf_bq_import.sh
+deploy_cf_init_export.sh
