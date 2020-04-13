@@ -1,4 +1,4 @@
-#Utilities for Firestore export/import to BigQuery
+# Utilities for Firestore export/import to BigQuery
 
 Detailed description is in this blog post [https://www.the-swamp.info/blog/exporting-data-firebase-firestore-bigquery/](https://www.the-swamp.info/blog/exporting-data-firebase-firestore-bigquery/)
 
